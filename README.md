@@ -1,3 +1,6 @@
+**Live demo:** https://nexus-round1-recommender-xymyywpkplzkoxkmj7e7u8.streamlit.app/
+
+
 # Smart Product Recommendation System
 
 A complete, beginner-friendly Machine Learning recommendation system built in Python, Scikit-Learn, and Streamlit.
